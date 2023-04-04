@@ -4,5 +4,8 @@ The three goals of a secure network are confidentiality, integrity, and availabi
 # Datasets
 Download the KDD-1999 dataset at https://datahub.io/machine-learning/kddcup99 and the CIC-2017 dataset on Kaggle at https://www.kaggle.com/datasets/cicdataset/cicids2017/code.
 
+# Mechanics
+See the uploaded paper or https://ia601602.us.archive.org/25/items/pioneer-su-21-sophia-zhu-term-paper/Pioneer_Su21_Sophia_Zhu_Term_Paper.pdf for reference.
+
 # Notes
 This project is part of an individual research during the Pioneer summer program. The model is robust on both datasets. Since the datasets provide different columns, two separate systems are trained based on KDD-99 and CIC-17.
